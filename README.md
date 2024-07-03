@@ -1,6 +1,5 @@
-I like deep learning research
-- I’m interested in GNNs, LLMs, and PEFT
-- I’m researching ways to fine-tune Whisper w/ compression methods (QLoRA, knowledge distillation, etc)
+I like deep learning research.
+- I work with GNNs, LLMs, and PEFT
 - How to reach me: chuang482@gatech.edu
 
 <!---
