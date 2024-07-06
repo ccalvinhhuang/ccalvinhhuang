@@ -1,4 +1,4 @@
-I like ML research.
+I like machine learning research.
 - I work a lot with GNNs, LLMs, and PEFT 
 - Reach out at chuang482@gatech.edu 
 
