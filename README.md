@@ -1,6 +1,6 @@
-I like deep learning research.
-- I work with GNNs, LLMs, and PEFT
-- How to reach me: chuang482@gatech.edu
+I like ML research.
+- I work a lot with GNNs, LLMs, and PEFT 
+- Reach out at chuang482@gatech.edu 
 
 <!---
 ccalvinhhuang/ccalvinhhuang is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
