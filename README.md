@@ -1,5 +1,5 @@
-I like machine learning research.
-- I work a lot with GNNs, LLMs, and PEFT 
+I like building things
+- I work a lot with PEFT for GNNs, and creating LLM pipelines.
 - Reach out at chuang482@gatech.edu 
 
 <!---
