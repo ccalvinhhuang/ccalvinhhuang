@@ -1,4 +1,6 @@
-Interested in all things AI/ML. Currently excited about low-latency ML serving & performance engineering
+• SWE @ Coinbase interested in all things AI/ML. 
+• Currently excited about low-latency ML serving & performance engineering
+
 
 <!---
 ccalvinhhuang/ccalvinhhuang is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
