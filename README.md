@@ -1,4 +1,4 @@
-• SWE @ Coinbase interested in all things AI/ML. 
+• SWE @coinbase interested in all things AI/ML.<br>
 • Currently excited about low-latency ML serving & performance engineering
 
 
