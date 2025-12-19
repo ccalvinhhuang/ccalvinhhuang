@@ -1,4 +1,4 @@
-• Software Engineer at Coinbase <br>
+Software Engineer at Coinbase <br>
 
 
 
