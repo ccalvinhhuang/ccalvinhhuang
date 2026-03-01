@@ -1,4 +1,4 @@
-Software Engineer at Coinbase <br>
+CS @ Georgia Tech <br>
 
 
 
